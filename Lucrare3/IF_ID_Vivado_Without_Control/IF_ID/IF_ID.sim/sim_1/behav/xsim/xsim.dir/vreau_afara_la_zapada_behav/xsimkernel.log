@@ -1,0 +1,7 @@
+Running: xsim.dir/vreau_afara_la_zapada_behav/xsimk.exe -simmode gui -wdb vreau_afara_la_zapada_behav.wdb -simrunnum 0 -socket 50714
+Design successfully loaded
+Design Loading Memory Usage: 5948 KB (Peak: 5948 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 6824 KB (Peak: 6824 KB)
+Simulation CPU Usage: 92 ms

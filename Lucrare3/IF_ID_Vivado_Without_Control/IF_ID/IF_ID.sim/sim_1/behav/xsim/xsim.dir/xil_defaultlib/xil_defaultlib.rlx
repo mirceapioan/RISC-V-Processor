@@ -1,0 +1,27 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sim_1/new/vreau_afara_la_zapada.v,1610483528,verilog,,,,vreau_afara_la_zapada,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/PC.v,1604140939,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/RISC_V.v,,PC,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/adder.v,1604142139,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/control_path.v,,adder,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/if_id_pipe.v,1599313148,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/imm_gen.v,,IF_ID_reg,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/imm_gen.v,1604943000,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/instruction_memory.v,,imm_gen,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/instruction_memory.v,1604142153,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/mux2_1.v,,instruction_memory,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/mux2_1.v,1604140156,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/mux4_1.v,,mux2_1,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/registers.v,1604145591,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sim_1/new/vreau_afara_la_zapada.v,,registers,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/ALU.v,1610619107,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/ALUcontrol.v,,ALU,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/ALUcontrol.v,1610571539,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/EX.v,,ALUcontrol,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/EX.v,1610624208,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/EX_MEM_reg.v,,EX,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/EX_MEM_reg.v,1610483308,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/ID.v,,EX_MEM_reg,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/ID.v,1605208422,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/ID_EX_reg.v,,ID,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/ID_EX_reg.v,1610483286,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/IF.v,,ID_EX_reg,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/IF.v,1604144930,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/MEM_WB_reg.v,,IF,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/MEM_WB_reg.v,1610483348,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/PC.v,,MEM_WB_reg,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/RISC_V.v,1610485334,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/adder.v,,RISC_V,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/control_path.v,1610623503,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/data_memory.v,,control_path,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/data_memory.v,1610487963,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/forwarding.v,,data_memory,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/forwarding.v,1610592415,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/hazard_detection.v,,forwarding,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/hazard_detection.v,1610482211,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/if_id_pipe.v,,hazard_detection,,,,,,,,
+E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/new/mux4_1.v,1610471709,verilog,,E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.srcs/sources_1/imports/IF_ID/registers.v,,mux4_1,,,,,,,,

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Jan  8 14:21:47 2021
+# Process ID: 18436
+# Current directory: E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16296 E:\CN2\Lucrare3\Lucrare3\IF_ID_Vivado_Without_Control\IF_ID\IF_ID.xpr
+# Log file: E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/vivado.log
+# Journal file: E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/CN2/Lucrare3/Lucrare3/IF_ID_Vivado_Without_Control/IF_ID/IF_ID.xpr
+update_compile_order -fileset sources_1
